@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  ZGAF_42.cpp
+z:\documentos\1s issc\mpys\funciones\zgaf_42\zgaf_42\zgaf_42.cpp(30): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  ZGAF_42.vcxproj -> Z:\Documentos\1S ISSC\MPYS\Funciones\ZGAF_42\Debug\ZGAF_42.exe

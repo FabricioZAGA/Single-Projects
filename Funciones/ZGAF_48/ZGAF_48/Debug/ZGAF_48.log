@@ -1,0 +1,5 @@
+﻿  ZGAF_48.cpp
+z:\documentos\1s issc\mpys\funciones\zgaf_48\zgaf_48\zgaf_48.cpp(44): warning C4305: '*=': truncamiento de 'double' a 'float'
+z:\documentos\1s issc\mpys\funciones\zgaf_48\zgaf_48\zgaf_48.cpp(59): warning C4305: '*=': truncamiento de 'double' a 'float'
+z:\documentos\1s issc\mpys\funciones\zgaf_48\zgaf_48\zgaf_48.cpp(74): warning C4305: '*=': truncamiento de 'double' a 'float'
+  ZGAF_48.vcxproj -> Z:\Documentos\1S ISSC\MPYS\Funciones\ZGAF_48\Debug\ZGAF_48.exe

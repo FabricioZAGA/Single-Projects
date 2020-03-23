@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  ZGAF_45.cpp
+z:\documentos\1s issc\mpys\funciones\zgaf_45\zgaf_45\zgaf_45.cpp(20): warning C4101: 'aux': variable local sin referencia
+  ZGAF_45.vcxproj -> Z:\Documentos\1S ISSC\MPYS\Funciones\ZGAF_45\Debug\ZGAF_45.exe

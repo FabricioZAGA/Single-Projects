@@ -1,0 +1,10 @@
+﻿  ZGAF_60.cpp
+z:\documentos\1s issc\mpys\arreglos y ciclos\zgaf_60\zgaf_60\zgaf_60.cpp(43): warning C4305: '=': truncamiento de 'double' a 'float'
+z:\documentos\1s issc\mpys\arreglos y ciclos\zgaf_60\zgaf_60\zgaf_60.cpp(45): warning C4305: '=': truncamiento de 'double' a 'float'
+z:\documentos\1s issc\mpys\arreglos y ciclos\zgaf_60\zgaf_60\zgaf_60.cpp(47): warning C4305: '=': truncamiento de 'double' a 'float'
+z:\documentos\1s issc\mpys\arreglos y ciclos\zgaf_60\zgaf_60\zgaf_60.cpp(49): warning C4305: '=': truncamiento de 'double' a 'float'
+z:\documentos\1s issc\mpys\arreglos y ciclos\zgaf_60\zgaf_60\zgaf_60.cpp(51): warning C4305: '=': truncamiento de 'double' a 'float'
+z:\documentos\1s issc\mpys\arreglos y ciclos\zgaf_60\zgaf_60\zgaf_60.cpp(53): warning C4305: '=': truncamiento de 'double' a 'float'
+z:\documentos\1s issc\mpys\arreglos y ciclos\zgaf_60\zgaf_60\zgaf_60.cpp(55): warning C4305: '=': truncamiento de 'double' a 'float'
+  LINK : no se encontró Z:\Documentos\1S ISSC\MPYS\Arreglos y Ciclos\ZGAF_60\Debug\ZGAF_60.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  ZGAF_60.vcxproj -> Z:\Documentos\1S ISSC\MPYS\Arreglos y Ciclos\ZGAF_60\Debug\ZGAF_60.exe
