@@ -1,0 +1,14 @@
+D:\Documentos\4S ISSC\TDM\ZGAF_EXAMEN_1P\ZGAF_EXAMEN_1P\bin\Debug\netstandard2.0\ZGAF_EXAMEN_1P.deps.json
+D:\Documentos\4S ISSC\TDM\ZGAF_EXAMEN_1P\ZGAF_EXAMEN_1P\bin\Debug\netstandard2.0\ZGAF_EXAMEN_1P.dll
+D:\Documentos\4S ISSC\TDM\ZGAF_EXAMEN_1P\ZGAF_EXAMEN_1P\bin\Debug\netstandard2.0\ref\ZGAF_EXAMEN_1P.dll
+D:\Documentos\4S ISSC\TDM\ZGAF_EXAMEN_1P\ZGAF_EXAMEN_1P\bin\Debug\netstandard2.0\ZGAF_EXAMEN_1P.pdb
+D:\Documentos\4S ISSC\TDM\ZGAF_EXAMEN_1P\ZGAF_EXAMEN_1P\obj\Debug\netstandard2.0\ZGAF_EXAMEN_1P.csprojAssemblyReference.cache
+D:\Documentos\4S ISSC\TDM\ZGAF_EXAMEN_1P\ZGAF_EXAMEN_1P\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Documentos\4S ISSC\TDM\ZGAF_EXAMEN_1P\ZGAF_EXAMEN_1P\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Documentos\4S ISSC\TDM\ZGAF_EXAMEN_1P\ZGAF_EXAMEN_1P\obj\Debug\netstandard2.0\Views\ProductsPage.xaml.g.cs
+D:\Documentos\4S ISSC\TDM\ZGAF_EXAMEN_1P\ZGAF_EXAMEN_1P\obj\Debug\netstandard2.0\ZGAF_EXAMEN_1P.AssemblyInfoInputs.cache
+D:\Documentos\4S ISSC\TDM\ZGAF_EXAMEN_1P\ZGAF_EXAMEN_1P\obj\Debug\netstandard2.0\ZGAF_EXAMEN_1P.AssemblyInfo.cs
+D:\Documentos\4S ISSC\TDM\ZGAF_EXAMEN_1P\ZGAF_EXAMEN_1P\obj\Debug\netstandard2.0\ZGAF_EXAMEN_1P.dll
+D:\Documentos\4S ISSC\TDM\ZGAF_EXAMEN_1P\ZGAF_EXAMEN_1P\obj\Debug\netstandard2.0\ref\ZGAF_EXAMEN_1P.dll
+D:\Documentos\4S ISSC\TDM\ZGAF_EXAMEN_1P\ZGAF_EXAMEN_1P\obj\Debug\netstandard2.0\ZGAF_EXAMEN_1P.pdb
+D:\Documentos\4S ISSC\TDM\ZGAF_EXAMEN_1P\ZGAF_EXAMEN_1P\obj\Debug\netstandard2.0\XamlC.stamp

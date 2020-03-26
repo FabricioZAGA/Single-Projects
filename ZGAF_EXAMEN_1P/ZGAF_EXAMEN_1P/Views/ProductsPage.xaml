@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ZGAF_EXAMEN_1P.Views.ProductsPage">
+    <NavigationPage.TitleView >
+        <Label 
+            Padding="2"
+            BackgroundColor="Yellow" 
+            TextColor="Black" 
+            FontAttributes="Bold"     
+            FontSize="Large"
+            Text="MercadoLibre Chafa" />
+    </NavigationPage.TitleView>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Nueva Compra" Command="{Binding CompraCommand}" />
+        <ToolbarItem Text="Eliminar Carrito" Command="{Binding DeleteCommand}" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <CollectionView
+            SelectionMode="Single"
+            ItemsSource="{Binding Products}"
+            SelectedItem="{Binding ProductSelected}"
+            SelectionChangedCommand="{Binding SelectCommand}"
+            x:Name="TripsColView">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid
+                        Padding="5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*" />
+                            <ColumnDefinition Width="3*" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+                        <Image
+                            Grid.Row="0"
+                            Grid.Column="0"
+                            Grid.RowSpan="3"
+                            HeightRequest="150"
+                            WidthRequest="150"
+                            Aspect="AspectFill"
+                            VerticalOptions="CenterAndExpand"
+                            HorizontalOptions="CenterAndExpand"
+                            Source="{Binding imageUrl}"
+                            d:Source="not_found" />
+                        <Label
+                            Grid.Row="0"
+                            Grid.Column="1"
+                            Text="{Binding productName}"
+                            TextColor="Black"
+                            FontSize="Large"/>
+                        <Label
+                            Grid.Row="1"
+                            Grid.Column="1"
+                            Text="{Binding price}"
+                            TextColor="Black"
+                            FontAttributes="Bold"
+                            FontSize="Medium"/>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </ContentPage.Content>
+</ContentPage>
